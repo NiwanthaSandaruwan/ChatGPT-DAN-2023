@@ -1,4 +1,4 @@
-# ChatGPT-DAN-2023
+# ChatGPT-DAN-2023 <img src="https://venturebeat.com/wp-content/uploads/2014/10/loading_desktop_by_brianmccumber-d41z4h6.gif?fit=1280%2C720&strip=all" width="100" height="100">
 ChatGPT-2023 "DAN (Do Anything Now)" and other "Jailbreaks".
 - <b>Note. So far, these things working well for prompts on the GPT-4 model. (08/19/2023)
 ## ChatGPT "DAN" (and other "Jailbreaks") PROMPTS
