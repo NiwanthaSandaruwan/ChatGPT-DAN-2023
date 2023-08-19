@@ -3,6 +3,8 @@ ChatGPT-2023 "DAN (Do Anything Now)" and other "Jailbreaks".
 - <b>Note. So far, these things working well for prompts on the GPT-4 model. (08/19/2023)
 ## ChatGPT "DAN" (and other "Jailbreaks") PROMPTS
 
+![image](https://logowik.com/content/uploads/images/openai-chatgpt-4038641.logowik.com.webp)
+
 Some of these work better (or at least differently) than others. They all exploit the "role play" training model.
 
 <ul>
